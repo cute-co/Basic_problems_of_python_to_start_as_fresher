@@ -1,0 +1,12 @@
+name = "Harshi"
+name1 = 'Harshi'
+name2 = '''Harshi'''
+print(name)
+print(name1)
+print(name2)
+#The above are the initialization of string
+#It involves the three ways to initialize the string
+#Above are in static stage we can't give the input in runtime
+#Give the input in run time of the program
+name3 = input("Enter the input of the name3")
+print(name3)
